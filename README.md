@@ -5,4 +5,4 @@
 ## Current Division: Gold
 * I got to Silver in the December 2018 Contest (Score: 1000)
 * I got to Gold in the Open 2019 Contest (Score: 750)
-* I got to Platinum in the __ __ Contest (Score: __)
+## Here is a [https://docs.google.com/spreadsheets/d/1KJuUnkkVRSSfkwW7J1DDS2Yjn3WQPRkUZ7cPC6cgX2c/edit#gid=0](link to a Google spreadsheet) documenting my progress of past USACO problems
