@@ -3,5 +3,6 @@
 > Note: I am only going to upload code for problems that I solved during-contest.
 > Also, I am only going to upload code for problems that I recieved full credit on.
 ## Current Division: Gold
-* I got to Silver in the December 2018 Contest
-* I got to Gold in the Open 2019 Contest
+* I got to Silver in the December 2018 Contest (Score: 1000)
+* I got to Gold in the Open 2019 Contest (Score: 750)
+* I got to Platinum in the __ __ Contest (Score: __)
